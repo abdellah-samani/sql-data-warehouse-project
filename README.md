@@ -45,9 +45,6 @@ data-warehouse-project/
 │
 ├── README.md                           # Présentation et instructions du projet
 └── LICENSE                             # Informations de licence pour le dépôt
-
-## 🌟 À propos de moi
-
-Étudiant en master Big Data & Data Science, je me forme activement au data engineering (Azure, Databricks, Spark, pipelines).
-Ancien entrepreneur, je combine rigueur technique et mentalité orientée résultat.
-Je suis à la recherche d’opportunités pour appliquer mes compétences et continuer à progresser.
+```
+## 🌟 À propos de moi 
+Étudiant en master Big Data & Data Science, je me forme activement au data engineering (Azure, Databricks, Spark, pipelines). Ancien entrepreneur, je combine rigueur technique et mentalité orientée résultat. Je suis à la recherche d’opportunités pour appliquer mes compétences et continuer à progresser.
