@@ -34,7 +34,7 @@ data-warehouse-project/
 │   ├── data_catalog.md                 # Catalogue des jeux de données, comprenant les descriptions des champs et les métadonnées
 │   ├── data_flow.jpg                   # fichier pour le diagramme de flux de données
 │   ├── data_models.jpg                 # fichier pour les modèles de données (schéma en étoile)
-│   ├── data_integration                # fichier pour l'intégration des données
+│   ├── data_integration.jpg            # fichier pour l'intégration des données
 │
 ├── scripts/                            # Scripts SQL pour l'ETL et les transformations
 │   ├── bronze/                         # Scripts d'extraction et de chargement de données brutes
