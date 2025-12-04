@@ -24,3 +24,30 @@ L'architecture de données de ce projet suit le modèle Medallion Architecture, 
 
 4. **Analyse et reporting** : Création de rapports et de tableaux de bord SQL pour des informations exploitables.
 
+## 📂 Structure du dépôt
+```
+data-warehouse-project/
+│
+├── datasets/                           # Données brutes utilisées pour le projet (données ERP et CRM)
+│
+├── docs/                               # Documentation du projet et détails d'architecture
+│   ├── data_catalog.md                 # Catalogue des jeux de données, comprenant les descriptions des champs et les métadonnées
+│   ├── data_flow.jpg                   # fichier pour le diagramme de flux de données
+│   ├── data_models.jpg                 # fichier pour les modèles de données (schéma en étoile)
+│   ├── data_integration                # fichier pour l'intégration des données
+│
+├── scripts/                            # Scripts SQL pour l'ETL et les transformations
+│   ├── bronze/                         # Scripts d'extraction et de chargement de données brutes
+│   ├── silver/                         # Scripts pour le nettoyage et la transformation des données
+│   ├── gold/                           # Scripts pour la création de modèles analytiques
+│
+├── tests/                              # Scripts de test et fichiers de qualité
+│
+├── README.md                           # Présentation et instructions du projet
+└── LICENSE                             # Informations de licence pour le dépôt
+
+## 🌟 À propos de moi
+
+Étudiant en master Big Data & Data Science, je me forme activement au data engineering (Azure, Databricks, Spark, pipelines).
+Ancien entrepreneur, je combine rigueur technique et mentalité orientée résultat.
+Je suis à la recherche d’opportunités pour appliquer mes compétences et continuer à progresser.
